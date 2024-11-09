@@ -1,0 +1,28 @@
+{
+  "name": "test-task-for-hotels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "task-1": "node ./src/task-1.js",
+    "task-2": "node ./src/task-2.js",
+    "task-3": "node ./src/task-3.js",
+    "task-4": "node ./src/task-4.js",
+    "magic-square": "node ./src/magic-square.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olegyesterdays/test-task-for-hotels.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olegyesterdays/test-task-for-hotels/issues"
+  },
+  "homepage": "https://github.com/Olegyesterdays/test-task-for-hotels#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
